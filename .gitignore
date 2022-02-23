@@ -1,0 +1,3 @@
+# Project exclude paths
+/Vue1/dist/
+/Vue1/node_modules/
